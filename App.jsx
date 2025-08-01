@@ -4,7 +4,6 @@ import { Routes, Route, Link } from "react-router-dom";
 import { SessionProvider } from "./contexts/SessionContext.jsx";
 import TeacherPage from "./pages/TeacherPage";
 import StudentPage from "./pages/StudentPage";
-import "../styles/form.css";
 
 import "./App.css";
 
