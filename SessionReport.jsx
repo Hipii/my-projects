@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { io } from "socket.io-client";
-import "../styles/form.css";
 
 function SessionReport({ report }) {
   const [filter, setFilter] = useState("");
