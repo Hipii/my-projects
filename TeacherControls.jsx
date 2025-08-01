@@ -1,6 +1,5 @@
 // src/components/TeacherControls.jsx
 import React from "react";
-
 // Component này chỉ chịu trách nhiệm cho khu vực điều khiển của giảng viên.
 // Nó nhận trạng thái và các hàm xử lý từ component cha (App.jsx) qua props.
 function TeacherControls({ isSessionActive, onStart, onStop }) {
