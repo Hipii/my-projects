@@ -1,6 +1,5 @@
 // src/components/StudentListTable.jsx
 import React from "react";
-
 function StudentListTable({ students }) {
   return (
     <section>
