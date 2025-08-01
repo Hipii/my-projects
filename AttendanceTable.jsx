@@ -34,3 +34,4 @@ function AttendanceTable({ attendance }) {
 }
 
 export default AttendanceTable;
+
