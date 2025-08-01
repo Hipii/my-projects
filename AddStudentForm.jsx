@@ -1,6 +1,5 @@
 // src/components/AddStudentForm.jsx
 import React from "react";
-import "../styles/form.css";
 function AddStudentForm({
   onSubmit,
   newStudentId,
